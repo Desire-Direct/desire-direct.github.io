@@ -1,15 +1,17 @@
 html {
 	max-width: 1050px;
 	margin-left: auto;
-	margin-right: auto;
+	etargin-right: auto;
 	margin-top: 30px;
-	color: #green;
 	padding-bottom: 200px;
-	 }
 
-body {background-color: #1a2421;} /*dark jungle green*/
-h1 {color: #ff1493;} /*deep pink*/
-p {color: #fddde6;} /*piggy pink*/
+	background-color: #1a2421; /*dark jungle green*/
+	font-family: monospace; color: rgb(147, 197, 114);
+}	 
+
+h1 {font-family: fantasy; color: rgb(68, 214, 44); }
+
+
 
 a {color: royalblue; }
 a:hover {color: lightblue; }
@@ -19,8 +21,12 @@ a:hover {color: lightblue; }
 	padding: 0px 10px 0px 10px;
 	border-radius: 0 30px 30px 0;
 	margin-bottom: 20px;
-	background-color: #eee;
+	background-color: #;#1a2421;
 }
 
 .entry h2 { margin: 5px auto 2px auto; }
 
+.entry p {monospace;
+
+
+	color: #B2D3C2;} /*pistachio*/
