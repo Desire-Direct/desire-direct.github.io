@@ -13,14 +13,18 @@
 
 <item>
 <title>Hello World!</title>
-<guid>https://lukesmith.xyz/2023.html#hello-world</guid>
+<guid>https://desire-direct.com/2023.html#hello-world</guid>
 <pubDate>Tue, 12 Sep 2023 21:27:48 +0200</pubDate>
 <description><![CDATA[
 <!-- LB -->
-Made a new blog, as Jekyll, which I've used to generate the old one got too bloated for my taste. So I finally got around to try Luke Smith's simple and lightweight lb script.
-After a fresh Arch Linux install on my new (refurbished) Lenovo ThinkPad from ebay.
+Made a new blog, 
+as Jekyll, 
+which I've used to generate the old one got too bloated for my taste. 
+For a long time I wanted to try Luke Smith's simple and lightweight lb script, so I've forked it. 
 ]]></description>
 </item>
+
+
 
 
 
