@@ -1,15 +1,16 @@
 html {
 	max-width: 1050px;
 	margin-left: auto;
-	etargin-right: auto;
+	margin-right: auto;
 	margin-top: 30px;
 	padding-bottom: 200px;
 
 	background-color: #1a2421; /*dark jungle green*/
-	font-family: monospace; color: rgb(147, 197, 114);
-}	 
+	}	 
 
-h1 {font-family: fantasy; color: rgb(68, 214, 44); }
+body {font-family: "NK57 Monospace", monospace; font-size: 14px; color: #90EE90;}
+
+h1 {font-family: "NK57 Monospace", monospace; color: #90EE90;}
 
 
 
@@ -21,12 +22,13 @@ a:hover {color: lightblue; }
 	padding: 0px 10px 0px 10px;
 	border-radius: 0 30px 30px 0;
 	margin-bottom: 20px;
-	backgrSnell Roundhand"ound-color: #;#1a2421;
 }
 
 .entry h2 { margin: 5px auto 2px auto; }
 
-.entry p {monospace;
 
 
-	color: #B2D3C2;} /*pistachio*/
+	
+                                         |-
+                                            
+                                         |
