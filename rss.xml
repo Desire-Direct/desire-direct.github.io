@@ -17,12 +17,24 @@
 <pubDate>Tue, 12 Sep 2023 21:27:48 +0200</pubDate>
 <description><![CDATA[
 <!-- LB -->
-Made a new blog, 
-as Jekyll, 
-which I've used to generate the old one got too bloated for my taste. 
-For a long time I wanted to try Luke Smith's simple and lightweight lb script, so I've forked it.doihfoshagoahgoidhoaih
+
+<p>Made a new blog to build my brand. 
+Jekyll, which I've used to generate the old one, got too bloated for my taste. 
+I wanted to try Luke Smith's simple and lightweight lb script for ages, 
+so I gave it a shot after a fresh Arch install on my new laptop, a refurbished 
+Lenovo ThinkPad from ebay.
+</p>
+
+<p>There is still plenty of tweaking and customising to do, 
+but I have much more control and creative freedom 
+than the average platform content creator. 
+With building a blog nearly from scratch, I learn a lot how code works, 
+which is usually hidden behind buttons.
+</p>
 ]]></description>
 </item>
+
+
 
 
 
