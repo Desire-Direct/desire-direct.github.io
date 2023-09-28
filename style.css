@@ -1,16 +1,37 @@
-html {
+html   {
 	max-width: 1050px;
+}	 
+
+body {
+
+	
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 30px;
 	padding-bottom: 200px;
-
 	background-color: #1a2421; /*dark jungle green*/
-	}	 
 
-body {font-family: "NK57 Monospace", monospace; font-size: 14px; color: #90EE90;}
 
-h1 {font-family: "NK57 Monospace", monospace; color: #90EE90;}
+}
+
+
+
+p {font-family: "NK57 Monospace", monospace; font-size: 14px; color: #90EE90;}
+
+
+h1 {font-family: "Arial"; color: #90EE90;}
+
+
+img.responsive {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+
+	
+
 
 
 
