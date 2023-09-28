@@ -1,10 +1,10 @@
 #!/bin/bash
 name="Verena Hermann"
 webdir="$PWD"
-website="https://twitter.com/Desire_Direct/" # Keep a trailing slash.
+website="https://desire-direct.com" # Keep a trailing slash.
 css="../style.css"
-blogfile="$(date +%Y).html"
-indexfile="index.html"
+blogfile="index.html"
+indexfile="blogindex.html"
 rssfile="rss.xml"
 archivefile="$webdir/blog/.htaccess"
 [ -z "$EDITOR" ] && EDITOR="vim"

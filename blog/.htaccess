@@ -2,5 +2,4 @@ Options +Indexes
 AddDescription "Options +Indexes
 patternwars
 test" "" #Options +IndexesMon, 11 Sep 2023 21:15:20 +0200
-AddDescription "patternwars" "patternwars.html"
-AddDescription "Hello World!" "hello-world.html" #Tue, 12 Sep 2023 21:27:48 +0200
+AddDescription "Hello, World!" "hello-world.html" #Thu, 28 Sep 2023 15:23:53 +0200
