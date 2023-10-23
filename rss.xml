@@ -16,13 +16,11 @@
 <guid>https://desire-direct.comindex.html#hello-world</guid>
 <pubDate>Thu, 28 Sep 2023 15:23:53 +0200</pubDate>
 <description><![CDATA[
-<!-- LB -->
-
 <p>
 Made a new blog to have a space to get my notes in order and share my research.
 Jekyll, which I've used to generate the previous one, got too bloated for my taste.
 I wanted to try Luke Smith's 
-<a href="https://youtu.be/jIfAdzGmhik?si=uEvw0nMwBrvQxtiT">
+<a href="https://youtu.be/jIfAdzGmhik?si=uEvw0nMwBrvQxtiT" target="_blank">
 lb script</a> for ages, 
 so after a fresh Arch install on my recently purchased (refurbished) Lenovo ThinkPad from ebay,
 I gave it a shot and forked it. 
@@ -40,10 +38,11 @@ and to navigate the cursor with the keys rather than having to grab for the mous
 which also allows for a faster and seamless writing process.
 </p>
 
-
-<img src="../images/screenshot.jpg">
+<img src="../images/screenshot.jpg>
 ]]></description>
 </item>
+
+
 
 
 
