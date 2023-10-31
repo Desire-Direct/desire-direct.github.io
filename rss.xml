@@ -16,7 +16,7 @@
 <guid>https://desire-direct.comindex.html#iguanas</guid>
 <pubDate>Tue, 31 Oct 2023 11:31:50 +0100</pubDate>
 <description><![CDATA[
-<img src="../images/molecule.png" style="float: left;">
+<img src="../images/molecule.png" float: left;>
 <p>
 Iguanas Inside lush holocene<br>
 Icelands<br>
@@ -185,6 +185,8 @@ Nietzsche, Friedrich. <i>Die fröhliche Wissenschaft</i>. Chemnitz: Verlag von E
 Peirano, Marta. <a href="https://www.youtube.com/watch?v=1jhg-tOPO-s&t=1911s" target="_blank">(re)programming: Infrastructure [Benjamin Bratton]</a> YouTube, 2021, 2:07:57
 ]]></description>
 </item>
+
+
 
 
 
