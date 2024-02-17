@@ -1,5 +1,5 @@
 html   {
-	margin: 10% 10% 10% 10%;
+	margin: 7% 7% 7% 7%;
 	background-color: #1a2421; /*dark jungle green*/
 }
 
@@ -11,8 +11,10 @@ body  {
 
 h1 {
 	font-family: sans-serif;
+	color: yellow;
 }
-        
+       
+
 
 img {
 	max-width: 100%;
@@ -21,12 +23,13 @@ img {
 
 
 
-
 a {color: royalblue; }
 a:hover {color: lightblue; }
 
+
+
 .entry {
-/*	border-left: 10px solid darkslategray;*/
+	border-left: 10px solid darkslategray;
 	padding: 0px 10px 0px 10px;
 	border-radius: 0 30px 30px 0;
 	margin-bottom: 20px;
