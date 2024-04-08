@@ -9,3 +9,6 @@ AddDescription "new test
 AddDescription "test" ".html"
 AddDescription "patternwars 01" "patternwars-01.html"
 AddDescription "" "blah" #Tue, 21 Nov 2023 10:27:00 +0100
+AddDescription "" "the-once-and-future-king.html" #Sun, 10 Mar 2024 10:33:33 +0100
+AddDescription "high life pt. 02" "high-life-pt-02.html"
+AddDescription "" "mars.html" #Fri, 08 Mar 2024 11:33:40 +0100
