@@ -24,7 +24,7 @@ just to find myself in Python's data science again.<br>
 and yes, it comes with its own environment<br>
 I've stumbled across R markdown,<br>
 reluctant to install bloated LaTeX again,<br>
-appeared to be an even bigger bloat<br>
+but appeared to be an even bigger bloat<br>
 without any useful documentation to find.<br>
 </p>
 
@@ -40,19 +40,21 @@ Microsoft /Libre office<br>
 </p>
 
 <p>
-glad having found groff > groff <br>
+glad having found groff<br>
 and to my pleasant surprise<br>
 came already installed together with the base-devel package of arch<br>
 which by far simplest syntax<br>
 giving that wonderful feel of editing a PDF document<br>
-directly in "real" "time"<br>
+directly in real time<br>
 or 'seeing what you will get',<br>
-with a single prompt in the CLI.<br>
+with a single prompt on the CLI.<br>
 </p>
 
 <pre>$ groff -ms magic.ms -T pdf > magic.pdf</pre>
 ]]></description>
 </item>
+
+
 
 
 <item>
