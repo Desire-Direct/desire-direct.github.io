@@ -1,5 +1,5 @@
 #!/bin/bash
-name="Verena Hermann"
+name="Cute Count"
 webdir="$PWD"
 website="https://desire-direct.com" # Keep a trailing slash.
 css="../style.css"
