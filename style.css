@@ -1,53 +1,48 @@
-html   {
+html	{ 
 	margin: 7% 7% 7% 7%;
 	background-color: #1a2421; /*dark jungle green*/
 }
 
-body  {
+body	{
 	font-family: sans-serif; 
 	color: #A9A9A9; /*dark gray*/
 }
 
-
-h1 {
+h1	{ 
 	font-family: sans-serif;
 	color: #A9A9A9;
 }
        
+a 	{color: royalblue; }
+a:hover {color: lightblue; }
 
-
-img {
+img	{
 	max-width: 100%;
 	height: auto;
 	}
 
-a {color: royalblue; }
-a:hover {color: lightblue; }
+pre 	{
+/*write code*/
+    	page-break-inside: avoid;
+    	font-family: monospace;
+    	font-weight: bold;
+    	margin-bottom: 1.6em;
+    	max-width: 100%;
+    	overflow: auto;
+   	padding: 1em 1.5em;
+    	display: block;
+    	word-wrap: break-word;
+}
 
-
-
+/*class*/
 .entry {
 	padding: 0px 10px 0px 10px;
 	margin-bottom: 20px;
 }
 
-.entry h2 { margin: 5px auto 2px auto; 
-
-	font-family: sans-serif;
-
-
-}
-/*writing code*/
-pre {
-    page-break-inside: avoid;
-    font-family: monospace;
-    font-weight: bold;
-    margin-bottom: 1.6em;
-    max-width: 100%;
-    overflow: auto;
-    padding: 1em 1.5em;
-    display: block;
-    word-wrap: break-word;
+.entry h2	{ 
+		margin: 5px auto 2px auto; 
+		font-family: sans-serif;
 }
 	
                                          
