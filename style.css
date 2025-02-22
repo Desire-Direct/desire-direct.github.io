@@ -13,6 +13,12 @@ img	{
 	height: auto;
 	}
 
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
 pre 	{ /*format code*/
     	page-break-inside: avoid;
     	font-family: monospace;
@@ -35,24 +41,13 @@ pre 	{ /*format code*/
 	margin: 5px auto 2px auto; 
 	font-family: sans-serif;
 	}
-	
 
-	
-	
-		
 img.purpleshadow:hover {
-	box-shadow: 21px 21px 55px 55px purple;}
- /*width, height, blur, spread radius*/
-	
+	box-shadow: 21px 21px 57px 56px purple;} /*width, height, blur, spread radius*/
 	
 img.yellowshadow:hover {
-box-shadow: 20px 20px 55px 55px yellow;} /*widht, height, blur, spread radius*/
+	box-shadow: 21px 21px 57px 56px yellow;} 
 
-img.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	}
 
 
 
