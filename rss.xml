@@ -11,6 +11,150 @@
 
 <!-- LB -->
 
+<item>
+<title>555</title>
+<guid>https://desire-direct.comindex.html#555</guid>
+<pubDate>Fri, 11 Jul 2025 11:30:54 +0200</pubDate>
+<description><![CDATA[
+<p>
+After a longer break, I'm getting back into electroniX, 
+<a href="https://desire-direct.com/images/555-moon02.jpg">once again</a> 
+making use of the 555 timer IC (integrated circuit), 
+with the intention to further my philosophical inquiries across time 
+and, as of yet, Gothic Materialism through anti-praxis. 
+For more convienent power supply, I've soldered jumper wires to a spare USB cable, 
+which fires the breadboard with 5V, sufficient for smaller test circuits 
+like this one. 
+
+<video width="320" height="240" controls> <source src="../images/555.mp4" type="video/mp4"> </video>
+
+<p>
+The 555 apparently<small>[1]</small> runs free in a/stable mode, transformed into a multivibrator, 
+for a generation of switching pulses, 
+that is hauntingly oscillating between the two states of high and low.
+
+Pulse width modulation (PWM) is the control system of the operative,
+enabled through internal rewiring and its postmodern operatic technique (POT),  
+which oddly enough, remains invisible to the human eye,<small>[2]</small> 
+although the material condition of the world has dramatically changed. 
+
+Duty cycle and frequency of the PWM signal determines the outcome, 
+however, if signal stays 100% HIGH above a relatively short timeline, 
+a simulation of a light emitting diode is given. 
+In turn, the modern duty cycle is never completed,
+by omitting frequency [measured in hertz(Hz)], 
+giving rise to the banal, yet evil, postmodern flatline construct. 
+
+<h5>recap on some of the components used:</h5>
+the Diode is a one-way street and allows current to flow only in one directon. 
+quick pole identification without a multimeter (in :diode mode):
+LED: long leg is anode (+), 
+the rim of the bulbous body is oblate at the cathode end (-);
+indicated by a black band in the <b>1N4148</b>;<br>
+&nbsp;the ceramic capacitor is non-polarized and ideal for high-frequency circuits;
+
+
+<h5>A lifelike doodle of the iXo-do_idea with straightened fangs before it pitiless bites into the host to suck its lifeblood.</h5>
+
+
+<img src="../images/tick.jpg"> 
+<p>
+I am well prepared for the morrow, and looking forward with glee
+to build up on, and visualize aquired knowledge as previously <a href="https://github.com/the-vtex-files/the-vtex-files.github.io/blob/master/images/transformer.gif">accomplished with state-of-the-art radar technologies</a>.
+</p>
+
+<p>Notes</p>
+[1] Despite common misconception, 555 signals are never analogous, but consistently digital.<br>
+[2] the counter tactics of radical empiricism will be revealed in a forthcoming post. 
+
+<p>References</p>
+Fisher, Mark. FLATLINE CONSTRUCTS - Gothic Materialism and Cybernetic Theory-Fiction. PhD thesis, University of Warwick, 1999. (accessed online 13/07/2025)<br>
+<a href="https://www.learningaboutelectronics.com/Articles/555-timer-pinout.php"></a><br>
+<a href="https://www.electronicshub.org/555-timer-pwm/"></a>
+]]></description>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
